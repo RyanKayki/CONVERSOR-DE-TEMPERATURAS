@@ -35,6 +35,10 @@ Para utilizar o sistema, siga as instruções abaixo:
 
 ## Estrutura do Projeto
 - `sistema_conversao_temperatura.py`: O código principal do sistema de conversão de temperatura.
+- `biblioteca_conversao.py`: Biblioteca externa contendo as definições das funções de conversão.
+
+## Biblioteca Externa
+Este programa utiliza uma biblioteca externa localizada na pasta `biblioteca_conversao`, que contém as definições das funções de conversão implementadas em outro código Python.
 
 ## Licença
 Este sistema é fornecido sob a Licença MIT.
